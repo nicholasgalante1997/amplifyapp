@@ -22,7 +22,7 @@
         "s3TemplateURL": "https://s3.amazonaws.com/amplify-amplifyapp-dev-143927-deployment/amplify-cfn-templates/auth/amplifyapp3eda6f5b-cloudformation-template.yml",
         "logicalId": "authamplifyapp3eda6f5b"
       },
-      "lastPushTimeStamp": "2020-10-02T19:24:44.241Z",
+      "lastPushTimeStamp": "2020-10-02T21:39:38.492Z",
       "output": {
         "AppClientSecret": "1d8ncovlc2dpb70dk2knqsjuito25go4rbvu0021so8bcqt5do0j",
         "UserPoolId": "us-east-2_v4YocZFgz",
@@ -32,7 +32,7 @@
         "IdentityPoolName": "amplifyapp3eda6f5b_identitypool_3eda6f5b__dev",
         "UserPoolName": "amplifyapp3eda6f5b_userpool_3eda6f5b"
       },
-      "lastPushDirHash": "hujv4Smmrd+JdAg4jtX6j8eRjxA="
+      "lastPushDirHash": "rYEv+QsZndpCjl46uGHNioRnUGw="
     }
   }
 }
